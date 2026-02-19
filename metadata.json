@@ -1,0 +1,8 @@
+{
+  "name": "Festival Ñahuimpuquio AI Experience",
+  "description": "A professional and vibrant web experience for the Festival en la Laguna Ñahuimpuquio, featuring ticket sales, guest list management, and a suite of interactive AI tools powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
